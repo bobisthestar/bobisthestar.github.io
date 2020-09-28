@@ -3,11 +3,58 @@
 
 @import "";
 body {
-  background-color: powderblue;
+  background-color: #;
 }
 h1 {
-  color: blue;
+  color: #ffcc00;
+  font-family: verdana;
+  font-size: 300%;
 }
 p {
   color: red;
+  font-family: courier;
+  font-size: 160%;
 }
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+		<div class="container">
+			<a class="navbar-brand" href="http://www.theoriginproject.org/"><img class="img-fluid" src="http://www.theoriginproject.org/wp-content/themes/theoriginproject-child/images/logo1.png" alt="theoriginproject"></a>
+
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="main-menu navbar-nav mr-auto ml-auto"><li id="menu-item-446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-446"><a href="http://www.theoriginproject.org/" aria-current="page">Home</a></li>
+<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-445"><a href="http://www.theoriginproject.org/about-us/" aria-haspopup="true" aria-expanded="false">ABOUT US</a><button class="submenu-expand" tabindex="-1"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"></path><path fill="none" d="M0 0h24v24H0V0z"></path></svg></button>
+<ul class="sub-menu">
+	<li id="menu-item--1" class="mobile-parent-nav-menu-item menu-item--1"><button class="menu-item-link-return" tabindex="-1"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg>ABOUT US</button></li>
+	<li id="menu-item-478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-478"><a href="http://www.theoriginproject.org/about-us/#TheOriginProject">The Origin Project</a></li>
+	<li id="menu-item-476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-476"><a href="http://www.theoriginproject.org/about-us/#MissionStatement">Mission Statement</a></li>
+	<li id="menu-item-477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-477"><a href="http://www.theoriginproject.org/about-us/#Biographies">Biographies</a></li>
+	<li id="menu-item-963" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-963"><a href="http://www.theoriginproject.org/about-us/#BoardofDirectors">Board of Directors</a></li>
+</ul>
+</li>
+<li id="menu-item-444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-444"><a href="http://www.theoriginproject.org/programming/" aria-haspopup="true" aria-expanded="false">Programming</a><button class="submenu-expand" tabindex="-1"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"></path><path fill="none" d="M0 0h24v24H0V0z"></path></svg></button>
+<ul class="sub-menu">
+	<li id="menu-item--2" class="mobile-parent-nav-menu-item menu-item--2"><button class="menu-item-link-return" tabindex="-1"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg>Programming</button></li>
+	<li id="menu-item-971" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-971"><a href="http://www.theoriginproject.org/programming/#Objectives">Objectives</a></li>
+	<li id="menu-item-972" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-972"><a href="http://www.theoriginproject.org/programming/#Pedagogy">Pedagogy</a></li>
+	<li id="menu-item-974" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-974"><a href="http://www.theoriginproject.org/programming/#Reflections">Reflections</a></li>
+</ul>
+</li>
+<li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="http://www.theoriginproject.org/heritage/">HERITAGE</a></li>
+<li id="menu-item-1035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="http://www.theoriginproject.org/ebooks/">Ebooks</a></li>
+<li id="menu-item-442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442"><a href="http://www.theoriginproject.org/gallery/">GALLERY</a></li>
+<li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="http://www.theoriginproject.org/news-events/">NEWS &#038; EVENTS</a></li>
+<li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-441"><a href="http://www.theoriginproject.org/donate/" aria-haspopup="true" aria-expanded="false">DONATE</a><button class="submenu-expand" tabindex="-1"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"></path><path fill="none" d="M0 0h24v24H0V0z"></path></svg></button>
+<ul class="sub-menu">
+	<li id="menu-item--3" class="mobile-parent-nav-menu-item menu-item--3"><button class="menu-item-link-return" tabindex="-1"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg>DONATE</button></li>
+	<li id="menu-item-497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497"><a href="http://www.theoriginproject.org/donate/#Benefactors">Benefactors</a></li>
+	<li id="menu-item-496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-496"><a href="http://www.theoriginproject.org/donate/#MakeDonation">Make Donation</a></li>
+</ul>
+</li>
+<li id="menu-item-440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440"><a href="http://www.theoriginproject.org/contact/">CONTACT</a></li>
+</ul></div><div class="main-menu-more"><ul class="main-menu"><li class="menu-item menu-item-has-children"><button class="submenu-expand main-menu-more-toggle is-empty" tabindex="-1" aria-label="More" aria-haspopup="true" aria-expanded="false"><span class="screen-reader-text">More</span><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path fill="currentColor" fill-rule="nonzero" d="M12 2c5.52 0 10 4.48 10 10s-4.48 10-10 10S2 17.52 2 12 6.48 2 12 2zM6 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm6 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm6 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/></g></svg></button><ul class="sub-menu hidden-links"><li id="menu-item--1" class="mobile-parent-nav-menu-item menu-item--1"><button class="menu-item-link-return"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg>Back</button></li></ul></li></ul></div>			</div>
+		</div>
+	</nav>
+</body>
