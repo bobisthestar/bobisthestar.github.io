@@ -2313,7 +2313,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*  Homepage Styles
 /* =================================== */
 .section-gap {
-  padding: 120px 0;
+  padding: 80px 0;
 }
 
 .alert-msg {
@@ -4433,7 +4433,7 @@ dl.accordion.time-line:before {
   font-weight: 300;
 }
 
-@media (max-width: 991.98px) {
+@media (max-width: 990px) {
   .single-footer-widget {
     margin-bottom: 30px;
   }
@@ -4469,7 +4469,7 @@ dl.accordion.time-line:before {
 
 @media (max-width: 991px) {
   .footer-bottom .footer-social {
-    text-align: left;
+    text-align: right;
     margin-top: 30px;
   }
 }
