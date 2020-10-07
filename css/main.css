@@ -3031,8 +3031,6 @@ div.desc {
 }
 .sun img {
     position:absolute;
-    width:90%;
-    max-width: 100%;
     opacity: 0.6;
 }
 /*-------- end image Area -------------*/
