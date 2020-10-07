@@ -232,7 +232,7 @@ td, th {
 }
 
 .fz-12 {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .fz-13 {
@@ -1957,7 +1957,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.3s ease 0s;
   line-height: 28px;
   min-height: 28px;
-  font-size: 12px;
+  font-size: 14px;
   padding-left: 20px;
 }
 
@@ -2018,7 +2018,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.3s ease 0s;
   line-height: 28px;
   min-height: 28px;
-  font-size: 12px;
+  font-size: 14px;
   padding-left: 45px;
 }
 
@@ -2636,7 +2636,7 @@ div.desc {
   position: relative;
   text-transform: uppercase;
   color: #222;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 500;
 }
 
@@ -2796,7 +2796,7 @@ div.desc {
 
 .single-testimonial {
   background-color: #fff;
-  padding: 25px 30px 12px 30px;
+  padding: 25px 30px 14px 30px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -3124,13 +3124,13 @@ div.desc {
 
 .sb_progress {
   height: 14px !important;
-  border-radius: 12px;
+  border-radius: 14px;
   border: 3px solid #eee;
 }
 
 .sb_bar {
   height: 8px !important;
-  border-radius: 12px;
+  border-radius: 14px;
 }
 
 /*--------  End Skillbar Style  -------------*/
@@ -3258,7 +3258,7 @@ div.desc {
 
 @media (max-width: 414px) {
   .accordion > dt > a {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 
@@ -3776,7 +3776,7 @@ dl.accordion.time-line:before {
   background: #F5D505;
   color: #fff;
   text-align: center;
-  padding: 12px 0px;
+  padding: 14px 0px;
 }
 
 .widget-wrap .popular-post-widget .popular-post-list {
@@ -3792,7 +3792,7 @@ dl.accordion.time-line:before {
 }
 
 .widget-wrap .popular-post-widget .single-post-list .details {
-  margin-left: 12px;
+  margin-left: 14px;
 }
 
 .widget-wrap .popular-post-widget .single-post-list .details h6 {
@@ -3820,7 +3820,7 @@ dl.accordion.time-line:before {
   background: #F5D505;
   color: #fff;
   text-align: center;
-  padding: 12px 0px;
+  padding: 14px 0px;
 }
 
 .widget-wrap .post-category-widget .cat-list li {
@@ -3859,7 +3859,7 @@ dl.accordion.time-line:before {
   background: #F5D505;
   color: #fff;
   text-align: center;
-  padding: 12px 0px;
+  padding: 14px 0px;
 }
 
 .widget-wrap .newsletter-widget .col-autos {
@@ -3874,7 +3874,7 @@ dl.accordion.time-line:before {
 .widget-wrap .newsletter-widget .bbtns {
   background: #F5D505;
   color: #fff;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 500;
   padding: 8px 20px;
   border-radius: 0;
@@ -3938,7 +3938,7 @@ dl.accordion.time-line:before {
   background: #F5D505;
   color: #fff;
   text-align: center;
-  padding: 12px 0px;
+  padding: 14px 0px;
   margin-bottom: 30px;
 }
 
@@ -3963,7 +3963,7 @@ dl.accordion.time-line:before {
 }
 
 .widget-wrap .tag-cloud-widget ul li a {
-  font-size: 12px;
+  font-size: 14px;
   color: #222;
 }
 
@@ -4136,7 +4136,7 @@ dl.accordion.time-line:before {
 
 @media (max-width: 413px) {
   .comments-area .comment-list .single-comment h5 {
-    font-size: 12px;
+    font-size: 14px;
   }
   .comments-area .comment-list .single-comment .date {
     font-size: 11px;
@@ -4211,7 +4211,7 @@ dl.accordion.time-line:before {
 }
 
 .comment-form .form-control {
-  padding: 12px;
+  padding: 14px;
   background: #fff;
   border: none;
   border-radius: 0px;
@@ -4411,7 +4411,7 @@ dl.accordion.time-line:before {
 .single-footer-widget .info {
   margin-top: 25px;
   color: #fff;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .single-footer-widget .info.valid {
