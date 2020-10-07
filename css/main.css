@@ -200,8 +200,9 @@ h5, .h5 {
 }
 
 h6, .h6 {
-  font-size: 14px;
+  font-size: 15px;
   color: #222222;
+  text-shadow: 2px 2px #F5D505;;
 }
 
 td, th {
@@ -3020,6 +3021,22 @@ div.desc {
 }
 
 /*-------- end recent-blog Area -------------*/
+
+/*-------- start banner image Area -------------*/
+.sun div {
+    position: relative;
+}
+.sun h1 {
+    display: inline;
+}
+.sun img {
+    position:absolute;
+    width:90%;
+    max-width: 100%;
+    opacity: 0.6;
+}
+/*-------- end image Area -------------*/
+
 /*--------- start brand Area -------------*/
 .brands-area {
   padding: 80px 0;
